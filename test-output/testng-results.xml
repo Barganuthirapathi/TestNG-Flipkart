@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="7" passed="7" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-02-25T10:10:43Z" name="Default suite" finished-at="2022-02-25T10:10:59Z" duration-ms="15649">
+    <groups>
+    </groups>
+    <test started-at="2022-02-25T10:10:43Z" name="Default test" finished-at="2022-02-25T10:10:59Z" duration-ms="15649">
+      <class name="com.flipkart.FlipkartTv">
+        <test-method is-config="true" signature="browserlaunch()[pri:0, instance:com.flipkart.FlipkartTv@56673b2c]" started-at="2022-02-25T10:10:43Z" name="browserlaunch" finished-at="2022-02-25T10:10:52Z" duration-ms="8454" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserlaunch -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:com.flipkart.FlipkartTv@56673b2c]" started-at="2022-02-25T10:10:52Z" name="beforeMethod" finished-at="2022-02-25T10:10:52Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="loginpage()[pri:1, instance:com.flipkart.FlipkartTv@56673b2c]" started-at="2022-02-25T10:10:52Z" name="loginpage" finished-at="2022-02-25T10:10:52Z" duration-ms="271" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginpage -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:com.flipkart.FlipkartTv@56673b2c]" started-at="2022-02-25T10:10:52Z" name="afterMethod" finished-at="2022-02-25T10:10:52Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method signature="stockValidation1()[pri:2, instance:com.flipkart.FlipkartTv@56673b2c]" started-at="2022-02-25T10:10:52Z" name="stockValidation1" finished-at="2022-02-25T10:10:56Z" duration-ms="3995" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- stockValidation1 -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:com.flipkart.FlipkartTv@56673b2c]" started-at="2022-02-25T10:10:52Z" name="beforeMethod" finished-at="2022-02-25T10:10:52Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:com.flipkart.FlipkartTv@56673b2c]" started-at="2022-02-25T10:10:56Z" name="afterMethod" finished-at="2022-02-25T10:10:56Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method signature="windowhandling()[pri:3, instance:com.flipkart.FlipkartTv@56673b2c]" started-at="2022-02-25T10:10:56Z" name="windowhandling" finished-at="2022-02-25T10:10:57Z" duration-ms="1237" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- windowhandling -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:com.flipkart.FlipkartTv@56673b2c]" started-at="2022-02-25T10:10:56Z" name="beforeMethod" finished-at="2022-02-25T10:10:56Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="excelread()[pri:4, instance:com.flipkart.FlipkartTv@56673b2c]" started-at="2022-02-25T10:10:57Z" name="excelread" finished-at="2022-02-25T10:10:57Z" duration-ms="26" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- excelread -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:com.flipkart.FlipkartTv@56673b2c]" started-at="2022-02-25T10:10:57Z" name="afterMethod" finished-at="2022-02-25T10:10:57Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:com.flipkart.FlipkartTv@56673b2c]" started-at="2022-02-25T10:10:57Z" name="beforeMethod" finished-at="2022-02-25T10:10:57Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:com.flipkart.FlipkartTv@56673b2c]" started-at="2022-02-25T10:10:57Z" name="beforeMethod" finished-at="2022-02-25T10:10:57Z" duration-ms="8" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:com.flipkart.FlipkartTv@56673b2c]" started-at="2022-02-25T10:10:57Z" name="afterMethod" finished-at="2022-02-25T10:10:57Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method signature="screenshot()[pri:5, instance:com.flipkart.FlipkartTv@56673b2c]" started-at="2022-02-25T10:10:57Z" name="screenshot" finished-at="2022-02-25T10:10:58Z" duration-ms="567" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- screenshot -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:com.flipkart.FlipkartTv@56673b2c]" started-at="2022-02-25T10:10:58Z" name="beforeMethod" finished-at="2022-02-25T10:10:58Z" duration-ms="5" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:com.flipkart.FlipkartTv@56673b2c]" started-at="2022-02-25T10:10:58Z" name="afterMethod" finished-at="2022-02-25T10:10:58Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method signature="screenshot()[pri:5, instance:com.flipkart.FlipkartTv@56673b2c]" started-at="2022-02-25T10:10:58Z" name="screenshot" finished-at="2022-02-25T10:10:58Z" duration-ms="454" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- screenshot -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:com.flipkart.FlipkartTv@56673b2c]" started-at="2022-02-25T10:10:58Z" name="beforeMethod" finished-at="2022-02-25T10:10:58Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="screenshot()[pri:5, instance:com.flipkart.FlipkartTv@56673b2c]" started-at="2022-02-25T10:10:58Z" name="screenshot" finished-at="2022-02-25T10:10:59Z" duration-ms="561" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- screenshot -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:com.flipkart.FlipkartTv@56673b2c]" started-at="2022-02-25T10:10:58Z" name="afterMethod" finished-at="2022-02-25T10:10:58Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:com.flipkart.FlipkartTv@56673b2c]" started-at="2022-02-25T10:10:59Z" name="afterMethod" finished-at="2022-02-25T10:10:59Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="browserquit()[pri:0, instance:com.flipkart.FlipkartTv@56673b2c]" started-at="2022-02-25T10:10:59Z" name="browserquit" finished-at="2022-02-25T10:10:59Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserquit -->
+      </class> <!-- com.flipkart.FlipkartTv -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
